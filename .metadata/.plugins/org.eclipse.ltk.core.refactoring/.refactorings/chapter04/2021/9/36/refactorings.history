@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;chapter04.A06_Code06&apos; to &apos;A06_Code05&apos;&#x0D;&#x0A;- Original project: &apos;chapter04&apos;&#x0D;&#x0A;- Original element: &apos;chapter04.A06_Code06&apos;&#x0D;&#x0A;- Renamed element: &apos;chapter04.A06_Code05&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;A06_Code06&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;chapter04{A06_Code06.java[A06_Code06" matchStrategy="1" name="A06_Code05" qualified="false" references="true" similarDeclarations="false" stamp="1630542147351" textual="false" version="1.0"/>
+</session>
